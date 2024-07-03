@@ -1,0 +1,15 @@
+img{
+    width:300px;
+    margin-left:30px;
+    margin-top:40px;
+    border:1px solid black;
+    border-radius:10px;
+    box-shadow:0px 0px 20px gray;
+}
+img:hover{
+    width:320px;
+    margin-left:30px;
+    border:1px solid black;
+    border-radius:10px;
+    box-shadow:0px 0px 20px gray;
+}
