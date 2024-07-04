@@ -37,6 +37,23 @@ a{
     font-size:20px;
     text-decoration:none;
     border:1px solid green;
-    margin:20px;
+    /* display:inline-block; */
+    margin-top:20px;
+    width:80px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  
+}
+a:hover{
+    font-size:20px;
+    text-decoration:underline;
+    border:1px solid green;
+    /* display:inline-block; */
+    margin-top:20px;
+    width:80px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
   
 }
